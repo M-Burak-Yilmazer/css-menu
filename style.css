@@ -20,6 +20,9 @@
   padding-bottom: 0.2rem;
   display: none;
 }
+.container{
+  display:inline-block;
+}
 
 }
 .container:hover .list {
