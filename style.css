@@ -24,7 +24,6 @@
   display:inline-block;
 }
 
-}
 .container:hover .list {
   display: block;
 }
